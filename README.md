@@ -50,10 +50,6 @@ Hello, MagicHexa! 👋🔮
 
 Se você quiser contribuir para o projeto, fique à vontade para abrir uma **issue** ou submeter um **pull request**. Vamos juntos melhorar o **MagicHexa**! 🚀
 
-## Licença 📜
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ---
 
 "Transformando dados, um byte de cada vez." ⚡️
